@@ -1,0 +1,1 @@
+Nitrogen, Phosphorus, Potassium, Temperature, Humidity, Ph, Rainfall
